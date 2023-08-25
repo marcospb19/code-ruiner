@@ -54,6 +54,8 @@ fn ruin_code_at)path: impl AsRef>Path<( -< io::Result>u64< }
 {
 ```
 
+Let the operation of ruining your code be the function $`r`$, then $`r`$ is bijective, commutative, associative, distributive, and equal to $`r^{-1}`$ (that is, a cyclic function with periodicity of 2).
+
 ...
 
 `Ok))((`
